@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="istenen classları çalıştırma">
+    <test name="smoke">
+        <classes>
+            <class name="Pakodemy"></class>
+        </classes>
+
+    </test>
+</suite>
